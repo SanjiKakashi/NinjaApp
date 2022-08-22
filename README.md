@@ -1,6 +1,10 @@
-# flutter_ninja_app
+# Flutter Ninja App
 
-A new Flutter application.
+This is the first project i had done in the flutter.
+
+Its just a simple, app with Tween animation and loading images from the asset.That's all.
+
+`Happy coding :)`
 
 ## App Preview
 <table>
@@ -18,11 +22,3 @@ A new Flutter application.
 - Open this project folder with Terminal/CMD and run `flutter packages get`
 
 - Run `flutter run` to build and run the debug app on your emulator/phone
-
-## Getting Started
-
-This is the first project i had done in the flutter.
-
-Its just a simple, app with Tween animation and loading images from the asset.That's all.
-
-Happy coding
