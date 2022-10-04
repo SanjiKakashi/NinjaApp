@@ -22,3 +22,8 @@ Its just a simple, app with Tween animation and loading images from the asset.Th
 - Open this project folder with Terminal/CMD and run `flutter packages get`
 
 - Run `flutter run` to build and run the debug app on your emulator/phone
+
+
+>As long as you don't give up, There will be always Salvation  `-Kakashi Hatake`
+
+>Happy Coding. Stay Safe. Stay Happy. Be Kind
